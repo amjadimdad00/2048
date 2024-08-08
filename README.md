@@ -1,4 +1,4 @@
-# ${REPO_NAME}
+# 2048 Game
 
 The 2048 game is a single-player sliding tile puzzle game designed to be played on a 4x4 grid. The objective of the game is to slide numbered tiles on the grid to combine them and create a tile with the number 2048. The game ends when no more moves are possible.
 
@@ -30,13 +30,9 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 To run this game locally, follow these steps:
 
 1. Clone the repository:
-   \`\`\`sh
    git clone https://github.com/amjadimdad00/2048.git
-   \`\`\`
 2. Navigate to the project directory:
-   \`\`\`sh
    cd 2048
-   \`\`\`
 3. Open "index.html" in your preferred web browser.
 
 ### Contact
